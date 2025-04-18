@@ -1,0 +1,21 @@
+id,nome,data_nascimento,sede,contrato
+1,Ana Souza,1990-05-12,São Paulo,CLT
+2,João Lima,1985-08-23,Rio de Janeiro,PJ
+3,Mariana Rocha,1993-12-01,Belo Horizonte,CLT
+4,Carlos Oliveira,1978-04-18,Curitiba,Autonomo
+5,Patrícia Mendes,1989-09-25,Porto Alegre,CLT
+6,Rafael Cardoso,1995-01-30,Salvador,PJ
+7,Juliana Ribeiro,1987-07-14,Fortaleza,Autonomo
+8,Felipe Martins,1992-10-08,São Paulo,CLT
+9,Camila Ferreira,1991-06-03,Recife,PJ
+10,Bruno Costa,1984-03-27,Campinas,CLT
+11,Isabela Nunes,1996-11-22,Curitiba,PJ
+12,Tiago Santana,1988-05-09,Brasília,Autonomo
+13,Laura Teixeira,1990-12-15,Belo Horizonte,CLT
+14,André Gomes,1983-01-19,São Paulo,CLT
+15,Renata Dias,1994-08-31,Rio de Janeiro,PJ
+16,Lucas Almeida,1992-09-20,Salvador,Autonomo
+17,Aline Farias,1986-06-26,Fortaleza,CLT
+18,Diego Pinto,1989-02-11,Recife,PJ
+19,Vanessa Lima,1993-04-04,Porto Alegre,Autonomo
+20,Gustavo Henrique,1987-07-07,Campinas,CLT
