@@ -16,3 +16,11 @@ dt.sample(10)
 # %%
 dt.drop_duplicates(keep="first", subset=["idCliente", "data"])
 # %%
+dt=dt.sort_values("dtCriacao")
+
+first = (dt.drop_duplicates(keep="first", subset=["idCliente", "data"]))
+
+last = (dt.drop_duplicates(keep="last", subset=["idCliente", "data"]))
+# %%
+first
+# %%
